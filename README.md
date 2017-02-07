@@ -1,4 +1,4 @@
-# allinone
+# Allinone
 This is a multipurpose app with following features :
 - Camera App with image Display of captured image 
 - Calculator with all necessities
