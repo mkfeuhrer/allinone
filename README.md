@@ -10,6 +10,6 @@ Platform : Android Studio
 Download the project- 1 - Open the download directory -> allinone -> app -> build -> outputs -> apk -> app-debug.apk . Copy the apk file to your android device . Install , run and enjoy . 2 - Run through android studio by importing the project.
 
 Made by :
--Mohit Khare
--Sushant Oberoi 
--MNNIT Allahabad 2nd year 
+- Mohit Khare
+- Sushant Oberoi 
+- MNNIT Allahabad 2nd year 
