@@ -15,3 +15,5 @@ Project report added along with images !!
 Made by :
 - Mohit Khare
 - Sushant Oberoi 
+
+![Screenshot](https://github.com/mkfeuhrer/allinone/blob/master/allinone.png)
