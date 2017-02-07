@@ -9,6 +9,8 @@ This is a multipurpose app with following features :
 Platform : Android Studio
 Download the project- 1 - Open the download directory -> allinone -> app -> build -> outputs -> apk -> app-debug.apk . Copy the apk file to your android device . Install , run and enjoy . 2 - Run through android studio by importing the project.
 
+Project report added along with images !! 
+
 Made by :
 - Mohit Khare
 - Sushant Oberoi 
