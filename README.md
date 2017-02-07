@@ -12,4 +12,3 @@ Download the project- 1 - Open the download directory -> allinone -> app -> buil
 Made by :
 - Mohit Khare
 - Sushant Oberoi 
-- MNNIT Allahabad 2nd year 
